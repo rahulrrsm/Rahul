@@ -12,6 +12,10 @@ public class Employee {
 
 	}
 	
+	public void empMob() {
+		System.out.println("Employee mob number is :9500855090");
+	}
+	
 	
 	
 	public static void main(String[] args) {
