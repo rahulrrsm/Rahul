@@ -16,6 +16,15 @@ public class Employee {
 		System.out.println("Employee mob number is :9500855090");
 	}
 	
+	private void emo() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void emoi() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	
 	public static void main(String[] args) {
