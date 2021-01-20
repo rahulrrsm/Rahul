@@ -3,18 +3,15 @@
 public class Employee {
 	
 	public void empId() {
-		System.out.println("Employee id is :123");
-
-	}
-	
-	
-	
-	
-	public static void main(String[] args) {
+		System.out.println("1");
 		
-		Employee e=new Employee();
-		e.empId();
-	
-	}
+		int a=10;
+		long b=a;
+		
+		long c=20;
+		int l=(int) c;
+		
+		
 
+}
 }
