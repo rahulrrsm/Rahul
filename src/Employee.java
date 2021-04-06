@@ -10,5 +10,7 @@ public class Employee {
 		long c=20;
 		int l=(int) c;
 		
+		a=10;
+		
 	}
 }
